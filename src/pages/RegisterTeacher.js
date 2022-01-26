@@ -1,7 +1,6 @@
 import Typography from "@mui/material/Typography";
 import Paper from "@mui/material/Paper";
-import yellow from "@mui/material/colors/yellow";
-import indigo from "@mui/material/colors/indigo";
+import { yellow, indigo } from "@mui/material/colors/";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import secureLogin from "../assets/images/secureLogin.svg";
